@@ -1,9 +1,10 @@
 
 /**
- * Write a description of class DiamondFlashBack here.
+ * Recieves an number and turns that number into the max width of a diamond it then displays back.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Luis Castillo
+ * @version V1.0
+ * @date 9/27/2026
  */
 import java.util.Scanner;
 public class DiamondFlashBack
